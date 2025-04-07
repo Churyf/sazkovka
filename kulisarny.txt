@@ -1,0 +1,40 @@
+zmenit design tlačítek ( border, stinovani)
+zmenit velikost a font nadpisu 
+zmenit pozici tlacitek
+
+zmenit to tak aby se to dalo vepsat rucne ta sazka 
+pridat ligu 
+sazka nesmi prekrocit vic nez user balance
+vypocitat i kurz pro remizu
+zmenit velikost a barvy tlacitek
+aby se v tom dalo scrollovat
+pridat vic veci na ktere sazet
+plus a minus tak dat jim cervenou a zelenou barvu
+tlacitko soupiska nema stinovani
+jine rozpolozeni log kdyz kliknu na soupisku?
+např po patem vyhre zasebou at se objevi neaka hlaska
+pokud se napise vysledek tak at tam neni polcka ale dvojtecka
+tmavy rezim/ svetly rezim
+udelat tam takovy ten aktivni bar ze kdyz najedu mysi na tlacitko tak at se zbarvi jinou barvu aby to bylo pro uzivatele vic ok
+
+
+síla týmu bude pohyblivá 
+Přdiat štítky ať vím co to je a co to děla
+schválně tak nepřidám scrolováni at ho mám pak udelat u maturity 
+jakmile zadam vetsi castku nez je kapital tak te to serve 
+dat tam kolik jsem celkove vyhrat za ten jeden den
+
+
+přidat pozadi u prihlasovani. u kazdeho okna at jde udelat jine pozadi
+na ty teamy pujde kliknout a budem k nemu neco napsano - idealne jako v nhl hre utok obrana a brankar
+Vypocet kurzu na remizu
+aby nahodou mi nedal ze se vyhra vypocita i pri remize coz takhle nefunguje
+
+
+PŘÍKAZY________________
+& "g:/win32app/Portable Python-3.10.5 x64/App/Python/python.exe" -m venv venv
+Set-ExecutionPolicy -Scope CurrentUser
+poté zadej 0
+.\venv\Scripts\activate
+pip install mysql-connector-python
+pip install pygame
